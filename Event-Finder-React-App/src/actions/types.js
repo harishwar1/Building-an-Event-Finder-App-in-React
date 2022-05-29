@@ -1,0 +1,14 @@
+export const GET_EVENTS = 'GET_EVENTS';
+export const ADD_EVENT = 'ADD_EVENT';
+export const DELETE_EVENT = 'DELETE_EVENT';
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const UPDATE_EVENT = 'UPDATE_EVENT';
+export const CLEAR_EVENTS = 'CLEAR_EVENTS';
+export const SET_LOADING = 'SET_LOADING';
+export const LOGS_ERROR = 'LOGS_ERROR';
+export const SEARCH_EVENTS = 'SEARCH_EVENTS';
+export const GET_PERSONS = 'GET_PERSONS';
+export const ADD_PERSON = 'ADD_PERSON';
+export const DELETE_PERSON = 'DELETE_PERSON';
+export const PERSON_ERROR = 'PERSON_ERROR';
